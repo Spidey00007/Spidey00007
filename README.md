@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋,  I'm Asamit</h1>
 <h3 align="center">A mind stretched by new experiences can never go back to its old dimensions.</h3>
 <br>
-<img align="right" alt="Coding" height="250" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" height="250" width="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Spidey00007&label=Profile%20views&color=0e75b6&style=flat" alt="Spidey00007" /> </p>
 
