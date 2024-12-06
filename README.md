@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **asamit1547k@gmail.com**
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Spidey7?theme=unicorn)
+<img src="https://leetcard.jacoblin.cool/Spidey7?theme=unicorn&hide=ranking" width="600" height="300" />
 
 <!--
 ### LeetCode Stats Unicorn Theme with Contest Rank
@@ -16,6 +16,24 @@
 -->
 
 <br>
+<hr></hr>
+
+<h3 align="left">Profile on coding platform:</h3>
+<p align="center" style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://www.leetcode.com/spidey7" target="blank" style="margin: 0 100px;">
+    <img align="center" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" alt="spidey7" height="50" width="200" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/spidey7" target="blank" style="margin: 0 100px;">
+    <img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20240903105930/gfg.jpeg" alt="spidey7" height="50" width="150" />
+  </a>
+  <a href="https://codeforces.com/profile/spidey7" target="blank" style="margin: 0 100px;">
+    <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI-UW2uCAthb1I-nYV8tJmdd83eBLiKT6nXA&s" alt="spidey7" height="50" width="200" />
+  </a>
+</p>
+
+
+
+<hr></hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,23 +61,10 @@
 <hr></hr>
 
 
-<h3 align="left">Profile on coding platform:</h3>
-<p align="center" style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://www.leetcode.com/spidey7" target="blank" style="margin: 0 100px;">
-    <img align="center" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" alt="spidey7" height="50" width="200" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/spidey7" target="blank" style="margin: 0 100px;">
-    <img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20240903105930/gfg.jpeg" alt="spidey7" height="50" width="150" />
-  </a>
-  <a href="https://codeforces.com/profile/spidey7" target="blank" style="margin: 0 100px;">
-    <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI-UW2uCAthb1I-nYV8tJmdd83eBLiKT6nXA&s" alt="spidey7" height="50" width="200" />
-  </a>
-</p>
 
   <!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   -->
 
-<hr></hr>
 
 
 <!--
