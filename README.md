@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **asamit1547k@gmail.com**
 
-<img src="https://leetcard.jacoblin.cool/Spidey7?theme=unicorn&hide=ranking" width="500" height="200" />
+<img src="https://leetcard.jacoblin.cool/Spidey7?theme=unicorn&hide=ranking" width="650" height="250" />
 
 <!--
 ### LeetCode Stats Unicorn Theme with Contest Rank
