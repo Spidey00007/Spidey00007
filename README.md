@@ -2,10 +2,11 @@
 <h1 align="center">Hi 👋,  I'm Asamit</h1>
 <h3 align="center">A mind stretched by new experiences can never go back to its old dimensions.</h3>
 <br>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Spidey00007&label=Profile%20views&color=0e75b6&style=flat" alt="Spidey00007" /> </p>
 
+- 📫 How to reach me **asamit1547k@gmail.com**
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Spidey7?theme=unicorn)
 
@@ -19,7 +20,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/asamit-kumar-b34bbb256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asamit-kumar-b34bbb256" height="30" width="40" /></a>
+      
 </p>
+<br>
+<hr></hr>
 
 <table>
       <thead>
