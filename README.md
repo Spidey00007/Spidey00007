@@ -4,9 +4,15 @@
 <br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Spidey00007&label=Profile%20views&color=0e75b6&style=flat" alt="nihar4569" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Spidey00007&label=Profile%20views&color=0e75b6&style=flat" alt="Spidey00007" /> </p>
 
-- 📫 How to reach me **asamit1547k@gmail.com**
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Spidey7?theme=unicorn)
+
+<!--
+### LeetCode Stats Unicorn Theme with Contest Rank
+![LeetCode Stats](https://leetcard.jacoblin.cool/Spidey7?theme=unicorn&ext=contest)
+-->
 
 <br>
 
@@ -27,20 +33,33 @@
             </tr>
       </thead>
 </table>
+<!--
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spidey00007&langs_count=10"> </p>
+-->
+<hr></hr>
+
+
+<h3 align="left">Profile on coding platform:</h3>
+<p align="center" style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://www.leetcode.com/spidey7" target="blank" style="margin: 0 100px;">
+    <img align="center" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" alt="spidey7" height="50" width="200" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/spidey7" target="blank" style="margin: 0 100px;">
+    <img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20240903105930/gfg.jpeg" alt="spidey7" height="50" width="150" />
+  </a>
+  <a href="https://codeforces.com/profile/spidey7" target="blank" style="margin: 0 100px;">
+    <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI-UW2uCAthb1I-nYV8tJmdd83eBLiKT6nXA&s" alt="spidey7" height="50" width="200" />
+  </a>
+</p>
+
+  <!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  -->
 
 <hr></hr>
 
 
-
-
-
-
-
-
-
-
-
+<!--
+https://media.geeksforgeeks.org/wp-content/uploads/20240903105930/gfg.jpeg
 <h3 align="left">Profile on coding platform:</h3>
 <p align="center">
 <a href="https://www.leetcode.com/spidey7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="spidey7" height="50" width="60" /></a>
@@ -56,7 +75,7 @@
 <a href="https://codeforces.com/profile/spidey7" target="blank">Codeforces</a>
 </p>
 <hr></hr>
-
+-->
 
 <h3 align="left" gap="500">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
