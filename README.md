@@ -39,6 +39,12 @@
       </a>
       <p><strong>Portfolio</strong></p>
     </td>
+    <td align="center">
+      <a href="https://monkeytype.com/profile/Spidey77">
+        <img src="https://img.lovepik.com/free-png/20211212/lovepik-hand-typing-keyboard-png-image_401525267_wh1200.png" width="50" height="50"/>
+      </a>
+      <p><strong>Typing Stats</strong></p>
+    </td>
   </tr>
 </table>
 
